@@ -5,3 +5,6 @@ Day-1:
   1.why is java more useful ?
   2.Iterations,naming,variables,purpose of public,class,void,main,etc.
   3.use of backslashes(/n,/t,/b,)
+Day -2:
+  Today I started with learning how to give input in the java language using Scanner inbuilt function
+  
