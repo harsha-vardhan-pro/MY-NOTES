@@ -6,5 +6,6 @@ Day-1:
   2.Iterations,naming,variables,purpose of public,class,void,main,etc.
   3.use of backslashes(/n,/t,/b,)
 Day -2:
-  Today I started with learning how to give input in the java language using Scanner inbuilt function
-  
+  Today I started with learning how to give input in the java language using Scanner which is an
+  inbuilt command which takes the input.And learned how to use operators (+,-,*,/,%) which are
+  listed in the files.
